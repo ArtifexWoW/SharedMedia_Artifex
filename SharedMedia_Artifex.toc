@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: |cFFD93030<SharedMedia>|r |cff174FBFArtifex|r
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+media.lua 
