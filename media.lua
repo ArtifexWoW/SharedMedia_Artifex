@@ -1,5 +1,11 @@
 local LSM = LibStub("LibSharedMedia-3.0")
 
+-- Media Types
+local MediaType_BACKGROUND = LSM.MediaType.BACKGROUND
+local MediaType_BORDER = LSM.MediaType.BORDER
+local MediaType_FONT = LSM.MediaType.FONT
+local MediaType_STATUSBAR = LSM.MediaType.STATUSBAR
+
 -- -----
 -- BACKGROUND
 -- -----
@@ -27,5 +33,5 @@ LSM:Register(MediaType_FONT, "ASM - Futura Medium",				[[Interface\Addons\Shared
 -- -----
 --   STATUSBAR
 -- -----
-LSM:Register("statusbar", "ASM - ToxiUI Dark", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUIdark.tga]])
-LSM:Register("statusbar", "ASM - ToxiUI", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUI.tga]])
+LSM:Register(MediaType_STATUSBAR, "ASM - ToxiUI Dark", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUIdark.tga]])
+LSM:Register(MediaType_STATUSBAR, "ASM - ToxiUI", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUI.tga]])
