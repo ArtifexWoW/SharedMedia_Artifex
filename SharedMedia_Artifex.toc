@@ -1,6 +1,6 @@
 ## Interface: 90002
 ## Title: |cFFD93030<SharedMedia>|r |cff174FBFArtifex|r
-## Version: 1.0.1
+## Version: 1.0.2
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
