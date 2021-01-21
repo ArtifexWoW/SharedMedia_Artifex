@@ -26,6 +26,16 @@ LSM:Register(MediaType_FONT, "ASM - Futura Book",				[[Interface\Addons\SharedMe
 LSM:Register(MediaType_FONT, "ASM - Futura Condensed Light",				[[Interface\Addons\SharedMedia_Artifex\fonts\Futura\FuturaCondensedLight.otf]])
 LSM:Register(MediaType_FONT, "ASM - Futura Light",				[[Interface\Addons\SharedMedia_Artifex\fonts\Futura\FuturaLight.ttf]])
 LSM:Register(MediaType_FONT, "ASM - Futura Medium",				[[Interface\Addons\SharedMedia_Artifex\fonts\Futura\FuturaMedium.ttf]])
+LSM:Register(MediaType_FONT, "ASM - Ailerons Regular",				[[Interface\Addons\SharedMedia_Artifex\fonts\Ailerons\AileronsRegular.otf]])
+LSM:Register(MediaType_FONT, "ASM - Long Shot",				[[Interface\Addons\SharedMedia_Artifex\fonts\LongShot\LongShot.ttf]])
+LSM:Register(MediaType_FONT, "ASM - Mars Monster Demo Black",				[[Interface\Addons\SharedMedia_Artifex\fonts\MarsMonster\MarsmonsterDemo-Black.ttf]])
+LSM:Register(MediaType_FONT, "ASM - Mars Monster Demo Regular",				[[Interface\Addons\SharedMedia_Artifex\fonts\MarsMonster\MarsmonsterDemo-Regular.ttf]])
+LSM:Register(MediaType_FONT, "ASM - Royals Italic",				[[Interface\Addons\SharedMedia_Artifex\fonts\Royals\Royals-Italic.ttf]])
+LSM:Register(MediaType_FONT, "ASM - Royals Regular",				[[Interface\Addons\SharedMedia_Artifex\fonts\Royals\Royals-Regular.ttf]])
+LSM:Register(MediaType_FONT, "ASM - Royals Rush",				[[Interface\Addons\SharedMedia_Artifex\fonts\Royals\Royals-Rush.ttf]])
+LSM:Register(MediaType_FONT, "ASM - Royals Rish Italic",				[[Interface\Addons\SharedMedia_Artifex\fonts\Royals\Royals-RushItalic.ttf]])
+LSM:Register(MediaType_FONT, "ASM - Skyer",				[[Interface\Addons\SharedMedia_Artifex\fonts\Skyer\Skyer-Regular.otf]])
+
 -- -----
 --   SOUND
 -- -----
