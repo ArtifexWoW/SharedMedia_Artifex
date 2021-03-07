@@ -36,6 +36,14 @@ LSM:Register(MediaType_FONT, "ASM - Royals Rush",				[[Interface\Addons\SharedMe
 LSM:Register(MediaType_FONT, "ASM - Royals Rish Italic",				[[Interface\Addons\SharedMedia_Artifex\fonts\Royals\Royals-RushItalic.ttf]])
 LSM:Register(MediaType_FONT, "ASM - Skyer",				[[Interface\Addons\SharedMedia_Artifex\fonts\Skyer\Skyer-Regular.otf]])
 
+-- Toxi Fonts
+LSM:Register(MediaType_FONT, "ASM - ITC Avant Garde",				[[Interface\Addons\SharedMedia_Artifex\fonts\Toxi\ITC_Avant_Garde_Gothic_LT_Medium.ttf]])
+LSM:Register(MediaType_FONT, "ASM - Big Noodle Titling",				[[Interface\Addons\SharedMedia_Artifex\fonts\Toxi\BigNoodleTitling.ttf]])
+LSM:Register(MediaType_FONT, "ASM - Homizio Bold",				[[Interface\Addons\SharedMedia_Artifex\fonts\Toxi\homizio_bold.ttf]])
+LSM:Register(MediaType_FONT, "ASM - LGC",				[[Interface\Addons\SharedMedia_Artifex\fonts\Toxi\LouisGeorgeCafe.ttf]])
+LSM:Register(MediaType_FONT, "ASM - LGC Bold",				[[Interface\Addons\SharedMedia_Artifex\fonts\Toxi\LouisGeorgeCafeBold.ttf]])
+LSM:Register(MediaType_FONT, "ASM - Steelfish",				[[Interface\Addons\SharedMedia_Artifex\fonts\Toxi\steelfish rg.ttf]])
+
 -- -----
 --   SOUND
 -- -----
@@ -45,3 +53,9 @@ LSM:Register(MediaType_FONT, "ASM - Skyer",				[[Interface\Addons\SharedMedia_Ar
 -- -----
 LSM:Register(MediaType_STATUSBAR, "ASM - ToxiUI Dark", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUIdark.tga]])
 LSM:Register(MediaType_STATUSBAR, "ASM - ToxiUI", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUI.tga]])
+
+LSM:Register(MediaType_STATUSBAR, "ASM - Toxi Mid", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUI-grad.tga]])
+LSM:Register(MediaType_STATUSBAR, "ASM - Toxi Left", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUI-g1.tga]])
+LSM:Register(MediaType_STATUSBAR, "ASM - Toxi Right", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUI-g2.tga]])
+
+LSM:Register(MediaType_STATUSBAR, "ASM - Toxi Half", [[Interface\Addons\SharedMedia_Artifex\media\ToxiUI-half.tga]])
