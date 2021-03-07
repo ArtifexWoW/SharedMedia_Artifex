@@ -54,8 +54,8 @@ LSM:Register(MediaType_FONT, "ASM - Steelfish",				[[Interface\Addons\SharedMedi
 LSM:Register(MediaType_STATUSBAR, "ASM - ToxiUI Dark", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUIdark.tga]])
 LSM:Register(MediaType_STATUSBAR, "ASM - ToxiUI", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUI.tga]])
 
-LSM:Register(MediaType_STATUSBAR, "ASM - Toxi Mid", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUI-grad.tga]])
-LSM:Register(MediaType_STATUSBAR, "ASM - Toxi Left", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUI-g1.tga]])
-LSM:Register(MediaType_STATUSBAR, "ASM - Toxi Right", [[Interface\Addons\SharedMedia_Artifex\statusbar\ToxiUI-g2.tga]])
+LSM:Register(MediaType_STATUSBAR, "ASM - Toxi Mid", [[Interface\Addons\SharedMedia_Artifex\media\ToxiUI-grad.tga]])
+LSM:Register(MediaType_STATUSBAR, "ASM - Toxi Left", [[Interface\Addons\SharedMedia_Artifex\media\ToxiUI-g1.tga]])
+LSM:Register(MediaType_STATUSBAR, "ASM - Toxi Right", [[Interface\Addons\SharedMedia_Artifex\media\ToxiUI-g2.tga]])
 
 LSM:Register(MediaType_STATUSBAR, "ASM - Toxi Half", [[Interface\Addons\SharedMedia_Artifex\media\ToxiUI-half.tga]])
